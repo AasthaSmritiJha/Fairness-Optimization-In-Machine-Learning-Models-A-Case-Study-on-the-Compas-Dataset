@@ -1,0 +1,2 @@
+# Fairness-Optimization-In-Machine-Learning-Models-A-Case-Study-on-the-Compas-Dataset
+Fairness optimization in machine learning aims to reduce bias so models treat all groups equitably. The COMPAS dataset, used to predict recidivism risk, reveals racial biases in predictions. Optimizing fairness on COMPAS involves balancing accurate predictions while minimizing disparities among demographic groups.
